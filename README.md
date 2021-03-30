@@ -1,0 +1,1 @@
+# woocommerce-frequently-bought-together
