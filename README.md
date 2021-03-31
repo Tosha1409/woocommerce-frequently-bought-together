@@ -1,1 +1,2 @@
 # woocommerce-frequently-bought-together
+Slightly modified version version of very old plugin callled **"Frequently Bought Together"** by Aheadzen that wasnt updated for many years. And unfortuantely there is no decent free replacement for it(or at least i wasn't able to find it). I slightly modified it, so now it shows only full rows (though there is possible cases when only row might be not full) and ignores "private" and "out of stock" products.
